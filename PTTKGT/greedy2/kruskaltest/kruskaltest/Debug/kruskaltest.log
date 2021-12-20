@@ -1,0 +1,5 @@
+﻿  kruskaltest.cpp
+C:\Users\Admin\Desktop\PTTKGT\greedy2\kruskaltest\kruskaltest\kruskaltest.cpp(70,16): warning C4101: 'k': unreferenced local variable
+C:\Users\Admin\Desktop\PTTKGT\greedy2\kruskaltest\kruskaltest\kruskaltest.cpp(70,6): warning C4101: 'trong_so': unreferenced local variable
+C:\Users\Admin\Desktop\PTTKGT\greedy2\kruskaltest\kruskaltest\kruskaltest.cpp(70,19): warning C4101: 'j': unreferenced local variable
+C:\Users\Admin\Desktop\PTTKGT\greedy2\kruskaltest\kruskaltest\kruskaltest.cpp(54): error C4700: uninitialized local variable 'trong_so' used

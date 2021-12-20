@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\congviec_lietkenhiphan_.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\congviec_lietkenhiphan_.dir/objects.a @CMakeFiles\congviec_lietkenhiphan_.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\congviec_lietkenhiphan_.dir/objects.a -Wl,--no-whole-archive -o congviec_lietkenhiphan_.exe -Wl,--out-implib,libcongviec_lietkenhiphan_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\congviec_lietkenhiphan_.dir\linklibs.rsp

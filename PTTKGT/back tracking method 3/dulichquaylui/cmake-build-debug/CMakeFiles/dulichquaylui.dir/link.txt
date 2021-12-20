@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\dulichquaylui.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\dulichquaylui.dir/objects.a @CMakeFiles\dulichquaylui.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\dulichquaylui.dir/objects.a -Wl,--no-whole-archive -o dulichquaylui.exe -Wl,--out-implib,libdulichquaylui.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dulichquaylui.dir\linklibs.rsp

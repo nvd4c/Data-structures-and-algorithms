@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/PTTKGT/back tracking method 3/lietkehoanvi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/PTTKGT/back tracking method 3/lietkehoanvi/cmake-build-debug/CMakeFiles/lietkehoanvi.dir
+C:/Users/Admin/Desktop/PTTKGT/back tracking method 3/lietkehoanvi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

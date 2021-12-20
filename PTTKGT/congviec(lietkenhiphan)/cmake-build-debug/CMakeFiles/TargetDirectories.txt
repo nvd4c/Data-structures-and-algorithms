@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/PTTKGT/congviec(lietkenhiphan)/cmake-build-debug/CMakeFiles/congviec_lietkenhiphan_.dir
+C:/Users/Admin/Desktop/PTTKGT/congviec(lietkenhiphan)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/PTTKGT/congviec(lietkenhiphan)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

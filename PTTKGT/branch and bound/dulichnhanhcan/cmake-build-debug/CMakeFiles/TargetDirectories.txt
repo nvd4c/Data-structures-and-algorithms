@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/PTTKGT/branch and bound/dulichnhanhcan/cmake-build-debug/CMakeFiles/dulichnhanhcan.dir
+C:/Users/Admin/Desktop/PTTKGT/branch and bound/dulichnhanhcan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/PTTKGT/branch and bound/dulichnhanhcan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+﻿  nguoididulic.cpp
+C:\Users\Admin\Desktop\PTTKGT\greedy 1\nguoididulic\nguoididulic\nguoididulic.cpp(49,12): error C2065: 'Tour': undeclared identifier
+C:\Users\Admin\Desktop\PTTKGT\greedy 1\nguoididulic\nguoididulic\nguoididulic.cpp(50,25): error C2065: 'Cost': undeclared identifier

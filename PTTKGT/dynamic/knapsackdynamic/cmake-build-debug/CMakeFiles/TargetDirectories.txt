@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/PTTKGT/dynamic/knapsackdynamic/cmake-build-debug/CMakeFiles/knapsackdynamic.dir
+C:/Users/Admin/Desktop/PTTKGT/dynamic/knapsackdynamic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/PTTKGT/dynamic/knapsackdynamic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

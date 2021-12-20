@@ -1,0 +1,6 @@
+﻿  prim.cpp
+C:\Users\Admin\Desktop\PTTKGT\greedy2\prim\prim\prim.cpp(39,17): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+C:\Users\Admin\Desktop\PTTKGT\greedy2\prim\prim\prim.cpp(72,17): warning C4101: 'k': unreferenced local variable
+C:\Users\Admin\Desktop\PTTKGT\greedy2\prim\prim\prim.cpp(72,9): warning C4101: 'weight': unreferenced local variable
+C:\Users\Admin\Desktop\PTTKGT\greedy2\prim\prim\prim.cpp(72,20): warning C4101: 'j': unreferenced local variable
+  prim.vcxproj -> C:\Users\Admin\Desktop\PTTKGT\greedy2\prim\Debug\prim.exe

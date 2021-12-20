@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\madituan.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\madituan.dir/objects.a @CMakeFiles\madituan.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\madituan.dir/objects.a -Wl,--no-whole-archive -o madituan.exe -Wl,--out-implib,libmadituan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\madituan.dir\linklibs.rsp

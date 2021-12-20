@@ -1,0 +1,2 @@
+﻿  ATM.cpp
+C:\Users\Admin\Desktop\PTTKGT\greedy 1\ATM\ATM\ATM.cpp(8): error C4700: uninitialized local variable 'n' used
