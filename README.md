@@ -1,2 +1,2 @@
 # algorithms
-using clion
+use clion
